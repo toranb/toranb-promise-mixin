@@ -1,0 +1,22 @@
+{
+  "name": "toranb-promise-mixin",
+  "version": "1.0.0",
+  "homepage": "https://github.com/toranb/toranb-promise-mixin",
+  "authors": [
+    "Toran Billups <toranb@gmail.com>"
+  ],
+  "description": "a simple promise mixin for my bower es6 demo",
+  "main": "main.js",
+  "dependencies": {},
+  "keywords": [
+    "ember"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
